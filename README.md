@@ -15,6 +15,6 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 + "FloatDouble" - To recognize the basic data types for values with decimals
 ##### 10/6/2018
 + "CharBoolean" - To recognize the basic data types for logic programs and single characters
-+ "String"
++ "String" - To recognize the basic data types for logic programs and single characters
 ---
 ###### August 2018, Sidney Buckner.
