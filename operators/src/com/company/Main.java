@@ -37,5 +37,14 @@ public class Main {
         System.out.println("A Decremented result = " + result--);
         System.out.println(result+=2);
         System.out.println(result-=2);
+
+        boolean isAlien = false;
+        if (isAlien == false)
+            System.out.println("NOOOO ALIENS!! :D");
+
+
+        int topScores = 250;
+        if (topScores != 250)
+            System.out.println("you LOOOOSE!! :D");
     }
 }
