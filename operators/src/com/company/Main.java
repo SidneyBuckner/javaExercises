@@ -15,5 +15,26 @@ public class Main {
 
         result = result * 4;
         System.out.println(nextResult + " * 4 = " + result);
+
+
+        int thirdResult = result;
+
+        result = result / 16;
+        System.out.println(thirdResult + " / 16 = " + result);
+
+
+        int fourthResult = result;
+
+        result = result * 4;
+        System.out.println(nextResult + " * 4 = " + result);
+
+
+        int lastResult = result;
+
+        result = result % 80;
+        System.out.println(lastResult + " % 80 = " + result);
+        System.out.println("An Incremented result = " + result++);
+        System.out.println("A Decremented result = " + result--);
+        System.out.println(result+=2);
     }
 }

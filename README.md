@@ -16,5 +16,6 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 ##### 10/6/2018
 + "CharBoolean" - To recognize the basic data types for logic programs and single characters
 + "String" - To recognize the basic data types for logic programs and single characters
++ "Operators" _ To recognize the basic operators that form simple and advanced operations
 ---
 ###### August 2018, Sidney Buckner.
