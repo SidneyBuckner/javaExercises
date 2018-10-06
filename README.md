@@ -13,5 +13,8 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 + "ByteShortInt" - To recognize the basic data types for whole numbers
 ##### 10/5/2018
 + "FloatDouble" - To recognize the basic data types for values with decimals
+##### 10/6/2018
++ "CharBoolean" - To recognize the basic data types for logic programs and single characters
++
 ---
 ###### August 2018, Sidney Buckner.
