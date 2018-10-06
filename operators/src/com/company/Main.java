@@ -36,5 +36,6 @@ public class Main {
         System.out.println("An Incremented result = " + result++);
         System.out.println("A Decremented result = " + result--);
         System.out.println(result+=2);
+        System.out.println(result-=2);
     }
 }
