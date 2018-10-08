@@ -18,5 +18,7 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 + "String" - To recognize the basic data types for logic programs and single characters
 + "Operators" - To recognize the basic operators that form simple and advanced operations
 + "Keywords & Expressions" - Recognizing how to make an expression using Keywords in Java
+##### 10/8/2018
++ 
 ---
 ###### August 2018, Sidney Buckner.
