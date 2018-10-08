@@ -19,6 +19,6 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 + "Operators" - To recognize the basic operators that form simple and advanced operations
 + "Keywords & Expressions" - Recognizing how to make an expression using Keywords in Java
 ##### 10/8/2018
-+ 
++ "Statements Whitespace and Indenting" - Recognizing how to form valid java statements and best practices for indentation, formatting and comprehension
 ---
 ###### August 2018, Sidney Buckner.
