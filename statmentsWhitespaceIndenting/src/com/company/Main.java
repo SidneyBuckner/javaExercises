@@ -11,5 +11,6 @@ public class Main {
                 "riding on multiple lines," +
                 " possibly on airwaves." +
                 " Right now Im just saying stuff that comes to my head.");
+        int anotherVar = 100;anotherVar++;
     }
 }

@@ -21,4 +21,4 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 ##### 10/8/2018
 + "Statements Whitespace and Indenting" - Recognizing how to form valid java statements and best practices for indentation, formatting and comprehension
 ---
-###### August 2018, Sidney Buckner.
+###### October 2018, Sidney Buckner.
