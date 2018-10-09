@@ -20,5 +20,8 @@ Selected lessons and exercises provided by LeetCode, and The Complete Java Devel
 + "Keywords & Expressions" - Recognizing how to make an expression using Keywords in Java
 ##### 10/8/2018
 + "Statements Whitespace and Indenting" - Recognizing how to form valid java statements and best practices for indentation, formatting and comprehension
++ "If Keyword and Code Blocks" - Recognizing Scope of code blocks and important Keywords
+##### 10/9/2018
++ "Methods in Java" - Recognizing important methods to assist executing code blocks in Java
 ---
 ###### October 2018, Sidney Buckner.
