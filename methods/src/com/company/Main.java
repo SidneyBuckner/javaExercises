@@ -5,22 +5,25 @@ public class Main {
 
     public static void main(String[] args) {
         // We use "if" Statements to create a statement to validate certain conditions, and the actions when those conditions are or are not met!
-        boolean gameOver = true;
-        int score = 800;
-        int levelCompleted = 5;
-        int bonus = 100;
+        
+//  All off the following vars and statements can be deleted now, becuase weve defined these variables in the parameters set in calculateScore
+//        boolean gameOver = true;
+//        int score = 800;
+//        int levelCompleted = 5;
+//        int bonus = 100;
 
         calculateScore(true, 800, levelCompleted, bonus);
-
-        score = 10000;
-        levelCompleted = 8;
-        bonus = 200;
-
-
-        if (gameOver == true) {
-            int finalScore = score + (levelCompleted * bonus);
-            System.out.println("This is your actual final score: " + finalScore);
-        }
+        calculateScore(true, 10000, 8, 200);
+//  All off the following vars and statements can be deleted now, becuase weve defined these variables in the parameters set in calculateScore
+//        score = 10000;
+//        levelCompleted = 8;
+//        bonus = 200;
+//
+//
+//        if (gameOver == true) {
+//            int finalScore = score + (levelCompleted * bonus);
+//            System.out.println("This is your actual final score: " + finalScore);
+//        }
     }
 
     public static void calculateScore(boolean gameOver, int score, int levelCompleted, int bonus){
